@@ -1,0 +1,4 @@
+DB_URL=mongodb://localhost:27017/test
+BASE_URL=http://localhost:3001
+PORT=3001
+APP_NAME=Test_app
