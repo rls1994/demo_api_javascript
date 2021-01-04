@@ -1,12 +1,12 @@
 {
-  "name": "rep_portal",
+  "name": "Demo API",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "start": "NODE_ENV=production node server.js"
   },
-  "author": "",
+  "author": "Ram lal Sharma",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.6",
